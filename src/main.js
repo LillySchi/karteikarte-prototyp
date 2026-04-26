@@ -45,7 +45,7 @@ import { Table, Dropdown } from "./ui/table.js";
 import { wireActions } from "./controllers/actionsController.js";
 import { ConfigModal } from "./ui/configModal.js";
 import { ScheinModal } from "./ui/scheinModal.js";
-import { wireConfig } from "./controllers/configcontroller.js";
+import { wireConfig } from "./controllers/configController.js";
 import { wireSchein } from "./controllers/scheinController.js";
 import { wireHeader } from "./controllers/headerController.js";
 import { wireBottomBar } from "./controllers/bottomBarController.js";
